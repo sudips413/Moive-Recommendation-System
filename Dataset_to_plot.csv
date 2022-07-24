@@ -1,0 +1,234 @@
+,index,Movie,P_Genre,S_Genre,T_Genre,Cluster_Id
+0,0,stranger things,0,0,7,57
+1,1,the boys,1,5,1,25
+2,2,resident evil,1,8,8,4
+3,3,the umbrella academy,1,3,10,6
+4,4,ms. marvel,1,3,10,6
+5,5,westworld,0,4,8,10
+6,6,jurassic world dominion,1,3,8,0
+7,7,minions: the rise of gru,4,3,10,13
+8,8,doctor strange in the multiverse of madness,1,3,0,2
+9,9,everything everywhere all at once,1,3,10,6
+10,10,star trek: strange new worlds,1,3,8,0
+11,11,the orville,2,11,1,40
+12,12,obi-wan kenobi,1,3,8,0
+13,13,severance,0,4,8,10
+14,14,manifest,0,4,8,10
+15,15,lightyear,4,2,3,50
+16,16,thor: ragnarok,1,3,10,6
+17,17,nope,5,4,8,27
+18,18,spider-man: no way home,1,3,0,2
+19,19,the sandman,0,0,7,57
+20,20,the munsters,7,9,0,58
+21,21,spiderhead,1,5,1,25
+22,22,black mirror,0,4,8,10
+23,23,the flash,1,3,1,14
+24,24,the mandalorian,1,3,0,2
+25,25,rocketry: the nambi effect,1,6,1,67
+26,26,american horror story,0,8,8,68
+27,27,"love, death & robots",4,12,2,12
+28,28,doctor who,2,1,8,34
+29,29,resident evil: welcome to raccoon city,1,8,8,4
+30,30,solar opposites,4,11,8,74
+31,31,crimes of the future,0,8,8,68
+32,32,lost,2,1,0,28
+33,33,jurassic park,1,3,8,0
+34,34,rick and morty,4,3,10,13
+35,35,morbius,1,3,7,70
+36,36,the marvels,1,3,0,2
+37,37,the undeclared war,0,10,11,81
+38,38,avengers: endgame,1,3,1,14
+39,39,dune: part one,1,3,1,14
+40,40,halo,1,3,8,0
+41,41,eternals,1,3,0,2
+42,42,the x files,3,1,4,90
+43,43,dark,3,1,4,90
+44,44,star trek: discovery,1,3,1,14
+45,45,ghostbusters: afterlife,2,11,0,97
+46,46,thor: love and thunder,1,3,10,6
+47,93,dc league of super-pets,4,2,3,50
+48,94,avatar: the way of water,1,3,8,0
+49,95,interstellar,2,1,8,34
+50,96,inception,1,3,8,0
+51,97,invincible,4,2,3,50
+52,98,free guy,1,3,10,6
+53,99,the 100,0,4,8,10
+54,100,black panther: wakanda forever,1,3,1,14
+55,101,loki,1,3,0,2
+56,102,black adam,1,0,8,113
+57,103,the time traveler's wife,0,0,6,114
+58,104,star wars: the clone wars,4,2,3,50
+59,105,sonic the hedgehog 2,1,3,10,6
+60,106,she-hulk: attorney at law,1,3,10,6
+61,107,wandavision,1,11,1,118
+62,108,arcane: league of legends,4,2,3,50
+63,109,minions,4,3,10,13
+64,110,avengers: infinity war,1,3,8,0
+65,111,guardians of the galaxy,1,3,10,6
+66,112,star trek: the next generation,1,3,8,0
+67,113,the book of boba fett,1,3,8,0
+68,114,star trek,1,3,8,0
+69,115,the expanse,0,4,8,10
+70,116,star wars,1,3,0,2
+71,117,harley quinn,4,2,3,50
+72,118,daredevil,1,5,1,25
+73,119,don't look up,7,1,8,133
+74,120,jurassic world,1,3,8,0
+75,121,superman & lois,1,3,1,14
+76,122,mad god,4,0,7,136
+77,123,samaritan,1,1,0,41
+78,124,independence day,1,3,8,0
+79,125,moonfall,1,3,8,0
+80,126,doctor strange,1,3,0,2
+81,127,blade runner 2049,1,1,4,20
+82,128,black widow,1,3,8,0
+83,129,jurassic world: fallen kingdom,1,3,8,0
+84,130,back to the future,2,11,8,148
+85,131,avatar,1,3,0,2
+86,132,diabolical,4,12,2,12
+87,133,smallville,1,3,1,14
+88,134,night sky,2,1,0,28
+89,135,titans,1,3,5,155
+90,136,star trek: picard,1,3,1,14
+91,137,warehouse 13,0,4,8,10
+92,138,tenet,1,10,11,159
+93,139,the suicide squad,1,3,10,6
+94,140,the adam project,1,3,10,6
+95,141,see,1,1,8,8
+96,142,captain marvel,1,3,8,0
+97,268,"love, death &amp; robots",4,12,2,12
+98,315,superman &amp; lois,1,3,1,14
+99,337,shang-chi and the legend of the ten rings,1,3,0,2
+100,338,mad max: fury road,1,3,8,0
+101,339,arrow,1,3,5,155
+102,340,hawkeye,1,3,5,155
+103,341,shining girls,3,1,4,90
+104,342,peacemaker,1,3,10,6
+105,343,fringe,0,4,8,10
+106,344,fear the walking dead,0,8,8,68
+107,345,despicable me,4,3,10,13
+108,346,agents of s.h.i.e.l.d.,1,3,1,14
+109,347,star wars: episode i - the phantom menace,1,3,0,2
+110,348,motherland: fort salem,0,0,8,39
+111,349,hellboy,1,3,0,2
+112,350,stargåte sg-1,1,3,1,14
+113,351,spider-man: homecoming,1,3,8,0
+114,352,guardians of the galaxy vol. 2,1,3,10,6
+115,353,the mist,5,10,11,17
+116,354,black panther,1,3,8,0
+117,355,spider-man,1,3,8,0
+118,356,overlord,1,8,8,4
+119,357,the avengers,1,3,8,0
+120,358,station eleven,2,1,0,28
+121,359,the hunger games,1,3,8,0
+122,360,person of interest,1,5,1,25
+123,361,minority report,1,5,4,31
+124,362,blade runner,1,1,8,8
+125,363,paper girls,0,0,7,57
+126,364,baymax!,4,12,2,12
+127,365,suicide squad,1,3,0,2
+128,367,iron man,1,3,8,0
+129,368,star trek: deep space nine,1,3,1,14
+130,369,what if...?,4,2,3,50
+131,370,the prestige,0,4,8,10
+132,371,prey,1,1,7,44
+133,372,from,0,8,4,16
+134,373,guardians of the galaxy vol. 3,1,3,10,6
+135,374,deadpool,1,3,10,6
+136,375,star wars: episode ix - the rise of skywalker,1,3,0,2
+137,376,star trek: voyager,1,3,8,0
+138,377,gotham,1,5,1,25
+139,378,venom: let there be carnage,1,3,8,0
+140,379,aquaman,1,3,0,2
+141,380,star wars: episode iii - revenge of the sith,1,3,0,2
+142,381,the lost world: jurassic park,1,3,8,0
+143,382,arrival,0,4,8,10
+144,383,zack snyder's justice league,1,3,0,2
+145,384,the midwich cuckoos,0,8,4,16
+146,385,ghostbusters,1,11,0,48
+147,386,alien: covenant,5,10,11,17
+148,387,"roswell, new mexico",0,7,8,35
+149,388,ex machina,0,10,11,81
+150,389,the thing,5,4,8,27
+151,390,spider-man: into the spider-verse,4,2,3,50
+152,391,futurama,4,3,10,13
+153,392,annihilation,2,1,7,51
+154,393,doom patrol,1,3,10,6
+155,394,watchmen,1,1,4,20
+156,395,star wars: rebels,4,2,3,50
+157,396,the tomorrow war,1,3,1,14
+158,398,aliens,1,3,8,0
+159,399,the deadly mantis,6,8,8,36
+160,400,divergent,1,3,4,49
+161,401,spider-man: far from home,1,3,8,0
+162,402,captain america: the first avenger,1,3,8,0
+163,403,gravity falls,4,2,3,50
+164,404,resident alien,7,1,4,26
+165,405,eternal sunshine of the spotless mind,0,7,8,35
+166,406,upload,7,4,8,19
+167,407,supergirl,1,3,1,14
+168,408,farzar,4,2,3,50
+169,409,deadpool 2,1,3,10,6
+170,410,rogue one,1,3,8,0
+171,411,firefly,2,1,8,34
+172,412,jessica jones,1,5,1,25
+173,413,raised by wolves,0,0,8,39
+174,414,the amazing spider-man,1,3,8,0
+175,415,dune: part two,1,3,1,14
+176,416,avengers: age of ultron,1,3,8,0
+177,417,the fifth element,1,3,8,0
+178,418,transformers,1,3,8,0
+179,419,prometheus,2,4,8,199
+180,420,the world's end,1,11,8,174
+181,421,the stand,2,1,0,28
+182,422,star wars: episode vi - return of the jedi,1,3,0,2
+183,423,a quiet place part ii,0,8,8,68
+184,424,idiocracy,2,11,8,148
+185,426,the twilight zone,0,0,7,57
+186,614,ad astra,2,1,4,182
+187,615,the empire strikes back,1,3,0,2
+188,616,legends of tomorrow,1,3,1,14
+189,617,the last of us,1,3,1,14
+190,618,misfits,7,1,0,18
+191,619,the falcon and the winter soldier,1,3,1,14
+192,620,snowpiercer,1,1,8,8
+193,621,sonic the hedgehog,1,3,10,6
+194,622,godzilla vs. kong,1,10,11,159
+195,623,star wars: episode vii - the force awakens,1,3,8,0
+196,624,boku no hîrô akademia,4,2,3,50
+197,625,captain america: civil war,1,3,8,0
+198,626,logan,1,1,8,8
+199,627,alf,7,9,8,191
+200,628,fantastic four,1,3,8,0
+201,629,star wars: episode ii - attack of the clones,1,3,0,2
+202,630,the meg,1,8,8,4
+203,631,the fountain,0,4,6,190
+204,632,donnie darko,0,4,8,10
+205,633,jigeum uri hakgyoneun,1,1,0,41
+206,634,edge of tomorrow,1,3,8,0
+207,635,armageddon,1,3,8,0
+208,636,despicable me 3,4,3,10,13
+209,637,adventure time,4,2,3,50
+210,638,underwater,1,8,8,4
+211,639,ready player one,1,3,8,0
+212,640,starship troopers,1,3,8,0
+213,641,about time,7,1,0,18
+214,642,the man in the high castle,0,10,11,81
+215,644,a quiet place,0,8,8,68
+216,645,quantum leap,1,3,1,14
+217,646,ant-man and the wasp: quantumania,1,3,10,6
+218,647,her,0,7,8,35
+219,648,the martian,2,1,8,34
+220,649,dune,1,3,8,0
+221,650,blindspot,1,5,1,25
+222,651,big hero 6,4,2,3,50
+223,652,lost in space,2,1,9,175
+224,653,despicable me 2,4,3,10,13
+225,654,predator,1,3,7,70
+226,655,x-men,1,3,8,0
+227,656,the oa,0,0,4,189
+228,657,altered carbon,1,1,8,8
+229,658,star wars: episode viii - the last jedi,1,3,0,2
+230,659,the amazing spider-man 2,1,3,8,0
+231,660,solo: a star wars story,1,3,8,0
+232,661,justice league,1,3,0,2
