@@ -5,11 +5,6 @@ from bs4 import BeautifulSoup
 import numpy as np
 import os
 
-"""
-Works for imdb pages recommend using all the pages with genres information discards all the ones with less
-than 3 genres type
-"""
-
 def get_all_titles(soup):
     result_topics = []
     # * only for urls with lists
